@@ -74,7 +74,7 @@ a, a:hover{
 .hiking-section{
 	width: 100%;
 	padding: 250px 0px;
-	background: url("../images/image.png") center top no-repeat;
+	background: url("../images/top.png") center top no-repeat;
 	background: cover;
 }
 .hiking-section h1{
